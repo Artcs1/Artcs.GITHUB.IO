@@ -4,8 +4,9 @@ layout: page
 
 Jeffri Erwin Murrugarra Llerena
 
-Bachelor student in Computer Science School  
-National University of Trujillo  
-Av. Juan Pablo II, Trujillo 13011
+Master student in Computer Science, INF 62-232
+Federal University of Rio Grande do Sul 
+Av. Bento Gonçalves, 9500 - Agronomia, Porto Alegre - RS, 90650-001
 
-jmurrugarra at unitru.edu.pe  
+jeffri.mllerena@inf.ufrgs.br
+ju.jeffri.v@gmail.com
